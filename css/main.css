@@ -66,7 +66,7 @@ header {
 header h1 {
   /* float: left; */
   margin: 0;
-  padding: 38px 0;
+  padding: 38px 28px 0;
   width: 100%;
   border-bottom: 3px solid #77a466;
 }
@@ -77,7 +77,7 @@ header h1 span {
 
 header nav {
   /* float: right; */
-  padding: 46px 0;
+  padding: 20px 0;
 }
 
 header nav ul {
@@ -92,7 +92,7 @@ header nav ul li {
   font-size: 0.875em;
   font-weight: 700;
   text-transform: uppercase;
-  padding: 0 10px;
+  padding: 10px 0;
   width: 100%;
 }
 
@@ -201,9 +201,9 @@ footer span {
     /* width: 100%; */
     border-left: 5px solid #eee;
     border-right: 5px solid #eee;
-	border-top: none;
-	border-bottom: none;
-	padding: 0 30px;
+	  border-top: none;
+	  border-bottom: none;
+	  padding: 0 30px;
   }
 
   .section-three {
